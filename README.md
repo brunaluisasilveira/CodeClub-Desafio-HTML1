@@ -11,7 +11,7 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 - [ ] Finalização
 
 <br>
-## 🤝 Colaboradores
+🤝 Colaboradores
 Pessoas que contribuíram para este projeto:
 
 <table>
