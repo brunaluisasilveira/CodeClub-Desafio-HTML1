@@ -1,0 +1,94 @@
+* {
+    margin: o;
+    padding: o;
+    box-sizing: border-box;
+    background-color: black;
+ }
+
+.credit {
+    display: grid;
+    width: 1000px;
+    height: 1200px;
+    object-fit: cover;
+}
+
+h1 {
+    color: #BF3EFF;
+    font-size: 50px;
+    text-align: center;
+    margin: 40px 0;
+    margin-top: -930px;
+}
+
+.first-title {
+    color: #C0FF3E;
+    font-size: 30px; 
+    text-align: center;
+}
+
+.first-paragraph {
+    color: #7A378B;
+    font-size: 20px;
+    text-align: center;
+    text-decoration-line: none;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.my-social {
+    text-align: center;
+}
+
+h4 {
+    color: #C0FF3E;
+    font-size: 30px;
+    text-align: center;
+    margin-bottom: -20px;
+}
+
+ul {
+    color: #BF3EFF;
+    font-size: 20px;
+    line-height: 30px;
+    margin-left: 520px;
+}
+
+a { 
+    text-align: center;
+    margin-left: 250px;
+    cursor: pointer;
+    text-decoration: none;
+    box-sizing: content-box;
+    line-height: 0;
+    margin-bottom: 300px;
+}
+
+.second-title {
+    color: cornflowerblue;
+    font-size: 30px;
+    text-align: center;
+    margin-top: 70px;
+    margin-bottom: 30px;
+    margin-right: 20px;
+
+}
+
+ol {
+    color: chartreuse;
+    margin-left: 570px;
+    line-height: 30px;
+    font-size: 20px;
+}
+
+.my-photo {
+    color: darkblue;
+    text-align: center;
+    font-size: 30px;
+    margin-bottom: -20px;
+}
+
+#my-photo { 
+    text-align: center;
+    margin: 30px 200px 0 200px;
+    cursor: pointer;
+}
